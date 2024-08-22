@@ -35,5 +35,9 @@ cd Library-Management-System
 @add_new_book.sql
 ```
 
+## License:
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
+
+
 ## Contributing:
 Feel free to fork this repository, create a branch, and submit a pull request with your improvements.
