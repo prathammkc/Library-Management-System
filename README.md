@@ -22,7 +22,7 @@ Welcome to the Simple Library Management System! This repository contains SQL sc
 ## Clone the Repository
 1) Start by cloning this repository to your local machine:
 ```sh
-git clone https://github.com/chelaramanipratham/Library-Management-System.git
+git clone https://github.com/prathammkc/Library-Management-System.git
 ```
 
 2) Navigate to the project directory:
